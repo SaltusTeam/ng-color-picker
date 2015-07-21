@@ -1,15 +1,15 @@
-colorpicker-dinamic ul {
+colorpicker ul, colorpicker-dinamic ul {
     padding: 0;
     margin: 0;
 }
 
-colorpicker-dinamic li {
+colorpicker li, colorpicker-dinamic li {
     width:20px;
     height:20px;
     box-sizing:border-box;
     display:inline-block;
 }
 
-colorpicker-dinamic li.selected {
+colorpicker li.selected, colorpicker-dinamic li.selected {
     border: 3px solid #333;
 }
