@@ -1,15 +1,15 @@
-ng-color-picker ul {
+colorpicker-dinamic ul {
     padding: 0;
     margin: 0;
 }
 
-ng-color-picker li {
+colorpicker-dinamic li {
     width:20px;
     height:20px;
     box-sizing:border-box;
     display:inline-block;
 }
 
-ng-color-picker li.selected {
+colorpicker-dinamic li.selected {
     border: 3px solid #333;
 }
